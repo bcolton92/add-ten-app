@@ -5,7 +5,7 @@ For example, when the user attempts to make the following request:
 
 http://www.myapp.com/7 
 
-then the JSON response, if you're adding 10, will return:
+then the JSON response will return:
 
  {
    "sum": "17"
